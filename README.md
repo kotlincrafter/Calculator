@@ -1,4 +1,4 @@
-#📱 AI-Powered Calculator App<br>
+📱 #AI-Powered Calculator App<br>
 
 Platform: Android | Language: Kotlin | Framework: Jetpack Compose<br>
 
